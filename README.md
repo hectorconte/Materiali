@@ -34,10 +34,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center"># registro-materiales-laboratorio</h3>
+<h3 align="center">Materiali</h3>
 
   <p align="center">
-    Webapp que permite mantener un registro de materiales de laboratorio (reactivos, insumos)
+    A webapp designed for chemical/medical lab personnel to keep material names & codes updated.
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
