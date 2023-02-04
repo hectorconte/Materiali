@@ -83,14 +83,13 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+This is a webapp inspired on the instructions by [@Fazt](https://github.com/fazt) on [This Youtube video](https://www.youtube.com/watch?v=fle43mKDLSI).
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ### Built With
 
 * [![Next][Next.js]][Next-url]
-* [![Typescript][Typescript]][Typescript-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
