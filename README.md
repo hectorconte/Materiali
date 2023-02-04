@@ -83,7 +83,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is a webapp inspired on the instructions by [@Fazt](https://github.com/fazt) on [this Youtube video](https://www.youtube.com/watch?v=fle43mKDLSI).
+This is a webapp inspired on the neccesity of keeping up with the various denominations and codes for specific reagents and general materials of any given lab.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -140,10 +140,10 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [x] Start project
+- [ ] Create base webapp
+- [ ] Create test database
+- [ ] Test it
 
 See the [open issues](https://github.com/hectorconte/Materiali/issues) for a full list of proposed features (and known issues).
 
