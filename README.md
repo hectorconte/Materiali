@@ -83,10 +83,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `hectorconte`, `Materiali`, `hectorconteok`, `hectorconte`, `gmail`, `email`, `Materiali`, `A webapp designed for chemical/medical lab personnel to keep material names & codes updated.`
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
