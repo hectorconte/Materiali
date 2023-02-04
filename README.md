@@ -83,7 +83,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is a webapp inspired on the instructions by [@Fazt](https://github.com/fazt) on [This Youtube video](https://www.youtube.com/watch?v=fle43mKDLSI).
+This is a webapp inspired on the instructions by [@Fazt](https://github.com/fazt) on [this Youtube video](https://www.youtube.com/watch?v=fle43mKDLSI).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -96,7 +96,7 @@ This is a webapp inspired on the instructions by [@Fazt](https://github.com/fazt
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+<!-- ## Getting Started
 
 ### Prerequisites
 
@@ -124,16 +124,16 @@ This is an example of how to list things you need to use the software and how to
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+-->
 
 <!-- USAGE EXAMPLES -->
-## Usage
+<!-- ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 
 
@@ -181,7 +181,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@hectorconteok](https://twitter.com/hectorconteok)
+Hector Conte - [@hectorconteok](https://twitter.com/hectorconteok)
 
 Project Link: [https://github.com/hectorconte/Materiali](https://github.com/hectorconte/Materiali)
 
@@ -192,9 +192,8 @@ Project Link: [https://github.com/hectorconte/Materiali](https://github.com/hect
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* [Fazt](https://github.com/fazt) - For the inspiration for this project
+* [othneildrew](https://github.com/othneildrew) - For this awesome Readme template
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
